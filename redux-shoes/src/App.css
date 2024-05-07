@@ -1,0 +1,8 @@
+.main-shoes-div{
+  display: grid;
+  grid-template-columns: repeat(3,400px);
+  grid-template-rows: auto;
+  gap: 10px;
+  width: 96%;
+  margin: auto;
+}

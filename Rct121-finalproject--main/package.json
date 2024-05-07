@@ -1,0 +1,22 @@
+{
+  "name": "rct121-finalproject-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivek-Badole/Rct121-finalproject-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivek-Badole/Rct121-finalproject-/issues"
+  },
+  "homepage": "https://github.com/Vivek-Badole/Rct121-finalproject-#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

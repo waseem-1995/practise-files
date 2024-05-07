@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 110100,
+      "brand": "Nike",
+      "category": "male",
+      "description": "Nothing",
+      "id": 2
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 280000,
+      "brand": "Nike",
+      "category": "female",
+      "description": "Nothing",
+      "id": 3
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1400,
+      "brand": "Nike",
+      "category": "male",
+      "description": "Nothing",
+      "id": 4
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1100,
+      "brand": "Nike",
+      "category": "female",
+      "description": "Nothing",
+      "id": 1
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1500,
+      "brand": "Nike",
+      "category": "female",
+      "description": "Nothing",
+      "id": 5
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1600,
+      "brand": "Nike",
+      "category": "male",
+      "description": "Nothing",
+      "id": 6
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1700,
+      "brand": "Nike",
+      "category": "female",
+      "description": "Nothing",
+      "id": 7
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1800,
+      "brand": "Nike",
+      "category": "kids",
+      "description": "Nothing",
+      "id": 8
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 1900,
+      "brand": "Nike",
+      "category": "kids",
+      "description": "Nothing",
+      "id": 9
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 2000,
+      "brand": "Nike",
+      "category": "kids",
+      "description": "Nothing",
+      "id": 10
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 2100,
+      "brand": "Nike",
+      "category": "female",
+      "description": "Nothing",
+      "id": 11
+    },
+    {
+      "image": "https://via.placeholder.com/300",
+      "price": 2200,
+      "brand": "Nike",
+      "category": "kids",
+      "description": "Nothing",
+      "id": 12
+    },
+    {
+      "image": "https://m.maccosmetics.in/media/export/cms/products/640x600/mac_sku_M2LP70_640x600_0.jpg",
+      "price": 12,
+      "brand": "shoes",
+      "category": "male",
+      "description": "aaaa",
+      "id": 13
+    }
+  ]
+}

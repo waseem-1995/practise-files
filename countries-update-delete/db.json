@@ -1,0 +1,28 @@
+{
+  "countries": [
+    {
+      "id": 3,
+      "country": "Spain",
+      "city": "Madrid",
+      "population": "232304"
+    },
+    {
+      "id": 6,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "population": "705690"
+    },
+    {
+      "id": 9,
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "population": "203841"
+    },
+    {
+      "id": 10,
+      "country": "South Korea",
+      "city": "Seoul",
+      "population": 456083
+    }
+  ]
+}

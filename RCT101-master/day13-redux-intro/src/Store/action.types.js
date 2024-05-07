@@ -1,0 +1,6 @@
+export const counter_increment = "counter_increment"
+export const counter_decrement = "counter_decrement"
+export const counter_addValue = "counter_addValue"
+export const counter_subValue = "counter_subValue"
+export const counter_multiplyValue = "counter_multiplyValue"
+export const counter_divide = "counter_divide"

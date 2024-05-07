@@ -1,0 +1,13 @@
+.task {
+display: flex;
+width: 100%;
+align-items: center;
+}
+.removeButton{
+    opacity: 0;
+    background-color: transparent;
+    border: none;
+}
+.removeButton:hover{
+    opacity: 1;
+}

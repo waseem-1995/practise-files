@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b39ebc92.chunk.css",
+    "main.js": "/static/js/main.7c4d4f3f.chunk.js",
+    "main.js.map": "/static/js/main.7c4d4f3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b70acd15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b70acd15.js.map",
+    "static/css/2.68fdb14c.chunk.css": "/static/css/2.68fdb14c.chunk.css",
+    "static/js/2.ac455dcc.chunk.js": "/static/js/2.ac455dcc.chunk.js",
+    "static/js/2.ac455dcc.chunk.js.map": "/static/js/2.ac455dcc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.68fdb14c.chunk.css.map": "/static/css/2.68fdb14c.chunk.css.map",
+    "static/css/main.b39ebc92.chunk.css.map": "/static/css/main.b39ebc92.chunk.css.map",
+    "static/js/2.ac455dcc.chunk.js.LICENSE.txt": "/static/js/2.ac455dcc.chunk.js.LICENSE.txt",
+    "static/media/Logoimg.bd4ce9be.png": "/static/media/Logoimg.bd4ce9be.png",
+    "static/media/allpamentimage.e8ac73bc.png": "/static/media/allpamentimage.e8ac73bc.png",
+    "static/media/truck.99f57f70.webp": "/static/media/truck.99f57f70.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70acd15.js",
+    "static/css/2.68fdb14c.chunk.css",
+    "static/js/2.ac455dcc.chunk.js",
+    "static/css/main.b39ebc92.chunk.css",
+    "static/js/main.7c4d4f3f.chunk.js"
+  ]
+}

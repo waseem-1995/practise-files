@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+    "name": "Chaitanya Paratha",
+    "category": [
+      "North Indian",
+      "Punjabi",
+      "Chinese",
+      "Thali Combo",
+      "Beverages"
+    ],
+    "rating": 1,
+    "deliveryTiming": 33,
+    "costOf2": 100,
+    "relevance": 20,
+    "offers": ["20% OFF", "Use TRYNEW"]
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+    "name": "MH12 Pav Bhaji",
+    "category": [
+      "Snack",
+      "Pizza",
+      "Beverages",
+      "Street Food"
+    ],
+    "rating": 4,
+    "deliveryTiming": 25,
+    "costOf2": 250,
+    "relevance": 10,
+    "offers": ["10% OFF", "Use TRYNEW"]
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+    "name": "Lunch Box",
+    "category": [
+      "North Indian",
+      "Punjabi",
+      "Combo",
+      "Biryani",
+      "Healthy Food",
+      "Jain",
+      "Thalis"
+    ],
+    "rating": 4.2,
+    "deliveryTiming": 31,
+    "costOf2": 200,
+    "relevance":20,
+    "offers": ["20% OFF", "Use TRYNEW"]
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+    "name": "The Hungry Hippie",
+    "category": [
+      "Chinese",
+      "Italian",
+      "Thai"
+    ],
+    "rating": 2,
+    "deliveryTiming": 38,
+    "costOf2": 500,
+    "relevance":40,
+    "offers": ["40% OFF", "Use TRYNEW"]
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+    "name": "Ovenstory Pizza",
+    "category": [
+      "Pizzas"
+    ],
+    "rating": 4.1,
+    "deliveryTiming": 45,
+    "costOf2": 600,
+    "relevance": 50,
+    "offers": ["50% OFF", "Use TRYNEW"]
+  },
+  {
+    "id": 6,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/6503729/262da42e14d29374037de1c3c939f57d.png?fit=around|300:273&crop=300:273;*,*",
+    "name": "Starbucks Coffee",
+    "category": [
+      "Beverages",
+      "Ice Cream"
+    ],
+    "rating": 4.3,
+    "deliveryTiming": 38,
+    "costOf2": 400,
+    "relevance": 40,
+    "offers": ["40% OFF", "Use TRYNEW"]
+  }
+]

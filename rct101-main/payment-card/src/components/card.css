@@ -1,0 +1,70 @@
+
+#amazon{
+    background-color: rgb(255,165,0);
+    width:600px;
+    margin:auto;
+    margin-top:20px;
+    line-height: 0px;
+}
+#apple{
+    background-color: rgb(245,245,245);
+    width:600px;
+    margin:auto;
+    margin-top:20px;
+    line-height: 0px;
+}
+#date-logo{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 20px 0px 20px;
+    /* border:1px solid green; */
+    /* width:90%; */
+    margin:auto;
+    /* height: 160%; */
+}
+#date{
+    margin-top:27px;
+}
+#logo{
+    margin-top:0px;
+    font-size: 54px;
+    border:1px ;
+    height:0px
+}
+h6{
+    font-size: large;
+    margin-top: 10px;
+}
+#case-heading{
+    /* border:1px solid; */
+    width:200px;
+    text-align: left;
+    line-height: 4ch;
+    margin-top: 0px;
+    padding: 20px 20px 0px 20px;
+}
+#title{
+    margin-top: 0px;
+
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    font-size: medium;
+}
+#device-arrow{
+    /* border:1px solid blue; */
+    display: flex;
+    justify-content: space-between;
+    padding:0px 20px 0px 20px;
+    /* width:90%; */
+    margin:auto;
+    
+}
+#device{
+    padding:6px 6px 6px 0px;
+}
+#arrow{
+    margin-top: 0%;
+    padding: 2px 8px 2px 2px;
+}

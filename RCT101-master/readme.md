@@ -1,0 +1,1 @@
+Used add , commit and push commands in sprint 1 folder

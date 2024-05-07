@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbarBox{
+    background-color: #24252a;
+    /* border: 1px solid black; */
+    height: 90px;
+    display: flex;
+    width: 1080px;
+    margin: auto;
+    margin-top: 400px;
+    justify-content: space-evenly;
+}
+.logoBox{
+    /* border: 1px solid white; */
+    height: fit-content;
+    width: fit-content;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    margin-top: 22px;
+    font-weight: 700;
+}
+.linkBox{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    /* border: 1px solid white; */
+    width: fit-content;
+    height: fit-content;
+    margin-top: 30px;
+    color: gray;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    cursor: pointer;
+}
+.contactButt{
+    margin-top: 20px;
+    font-size: 24px;
+    padding-bottom: 5px;
+    background-color: #0384a7;
+    height: 50px;
+    width: 160px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

@@ -1,0 +1,9 @@
+.taskHeader {
+  padding: 2rem;
+  background-color: aquamarine;
+  background-color: linear-gradient(
+    135deg,
+    --secondary-color 10%,
+    --primary-color 100%
+  );
+}

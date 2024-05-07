@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .card {
+    width:600px ;
+    margin: 20px auto;
+    padding: 2px 30px;
+    border: 1px solid black;
+  }
+  
+  .Top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .Top > img {
+    width: 90px;
+    height: 90px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .Mid {
+    width: 40%;
+  }
+  
+  .Mid > button {
+    background-color: #111;
+    color: #fff;
+    padding: 8px 15px;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+  }
+  
+  .Mid > h2 {
+    font-size: 40px;
+    margin: 26px 0px;
+  }
+  
+  .Low {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  
+  .Low > p {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .Low > i {
+    font-size: 60px;
+  }

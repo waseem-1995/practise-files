@@ -1,0 +1,57 @@
+#mainBox{
+    border: 1px solid black;
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    height: fit-content;
+}
+.heading{
+    margin-bottom:20px ;
+    text-align: center;
+}
+.todoinput{
+    border:0px solid black;
+    margin-bottom: 20px;
+    background: #839476;
+    border-radius: 4px;
+}
+.todoinput > button,input{
+    height: 44px;
+    box-sizing: border-box;
+    border: 0px solid black;
+}
+.todoinput > button {
+    background-color: transparent;
+    width: 50px;
+    color: black;
+    font-size: 30px;
+    color: white;
+    border-radius: 3px;
+    border-right: none;
+}
+.todoinput > input{
+    position: absolute;
+    width: 306px;
+    border-left: none;
+    font-size: 18px;
+    outline: none;
+    background: #839476;
+}
+.todoinput > input::placeholder{
+    color: white;
+}
+.list{
+    width: 356px;
+    padding: 8px 8px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3px;
+    border-radius: 4px;
+}
+.list > button {
+    width:30px;
+    font-size: 18px;
+    border: 1px solid black;
+    background: transparent;
+}
